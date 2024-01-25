@@ -5,7 +5,7 @@
 <p align="left"> <img src="" /> </p>
 
 
-
+- 🌱 Full Stack Developer.
 - 📫 How to reach me **kalivelalikhitaroy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
