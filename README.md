@@ -5,7 +5,8 @@
 <p align="left"> <img src="" /> </p>
 
 
-- 🌱 Full Stack Developer.
+- 🌱 Full Stack Developer
+- 💬 Ask me about Java, JavaScript, Frontend, Sql, Database
 - 📫 How to reach me **kalivelalikhitaroy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
